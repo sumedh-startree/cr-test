@@ -12,6 +12,6 @@ def test1(a, b):
 def test2(a, b):
     return a
 
-print(inspect.getsourcelines(test1))
-print("------------------")
-print(inspect.getsourcelines(test2))   
+#print(inspect.getsourcelines(test1))
+#print("------------------")
+#print(inspect.getsourcelines(test2))   

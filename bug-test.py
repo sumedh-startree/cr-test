@@ -15,3 +15,7 @@ def test2(a, b):
 print(inspect.getsourcelines(test1))
 print("------------------")
 print(inspect.getsourcelines(test2))   
+
+#print(inspect.getsourcelines(test1))
+#print("------------------")
+#print(inspect.getsourcelines(test2))   

@@ -11,7 +11,7 @@ def test1(a, b):
 #comment
 def test2(a, b):
     return a
-
+#Prints output
 print(inspect.getsourcelines(test1))
 print("------------------")
 print(inspect.getsourcelines(test2))   
